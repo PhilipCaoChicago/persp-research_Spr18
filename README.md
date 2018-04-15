@@ -1,13 +1,14 @@
 # MACS 30200 - Perspectives on Computational Research (Spring 2018)
 
-|  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | [Dr. Benjamin Soltoff](http://www.bensoltoff.com/) | [Sushmita Gopalan]() (grader) | [Xingyun Wu]() (grader) |
-|---|---|---|----|---------|
-| Email | rwevans@uchicago.edu | soltoffbc@uchicago.edu | sushmitavgopalan@uchicago.edu | xywu@uchicago.edu |
-| Office | 208 McGiffert House | 209 McGiffert House |  |  |
-| Office Hours | W 2:30-4:30pm | Th 2-4pm |   |  |
-| GitHub | [rickecon](https://github.com/rickecon) | [bensoltoff](https://github.com/bensoltoff) | [sushmitavgopalan16](https://github.com/sushmitavgopalan16) |  |
+|  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | [Dr. Benjamin Soltoff](http://www.bensoltoff.com/) |
+|--------------|--------------------------------------------------------------|----------------------------------------------------|
+| Email | rwevans@uchicago.edu | soltoffbc@uchicago.edu |
+| Office | 208 McGiffert House | 209 McGiffert House |
+| Office Hours | W 2:30-4:30pm | Th 2-4pm |
+| GitHub | [rickecon](https://github.com/rickecon) | [bensoltoff](https://github.com/bensoltoff) |
 
 * **Meeting day/time**: MW 11:30am-1:20pm, Saieh Hall, Room 247
+* Graders: Sushmita V. Gopalan & Xingyun Wu
 * Office hours also available by appointment
 
 ## Course description
@@ -51,15 +52,15 @@ If you need any special accommodations, please provide us with a copy of your Ac
 
 | Date | Day | Topic | Reading | Assignment due dates |
 |--------|-----|---------------------------|-------------|---------------------------------|
-| Mar 26 | M | Overview/reproducibility in science | [Slides](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/slides/fundamentals-slides.html) |  |
-| Mar 28 | W | Abstract/intro/conclusion | [Slides](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/slides/IntroAbsConcl_slides.pdf) |  |
-| Apr  2 | M | Theory section of paper | [Slides](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/slides/TheorySection_slides.pdf) |  |
-| Apr  4 | W | Proposal presentations |  | Proposal slides & present |
-| Apr  9 | M | Data section of paper |  |  |
-| Apr 11 | W | Computational results section of paper |  |  |
-| Apr 16 | M | Kernel density estimation |  | PS1 |
+| Mar 26 | M | Overview/reproducibility in science | [Slides](slides/fundamentals-slides.html) |  |
+| Mar 28 | W | Abstract/intro/conclusion | [Slides](slides/IntroAbsConcl_slides.pdf) |  |
+| Apr  2 | M | Theory section of paper | [Slides](slides/TheorySection_slides.pdf) |  |
+| Apr  4 | W | Proposal presentations |  | [Proposal slides & present](assignments/project-proposal.md) |
+| Apr  9 | M | Data/methods section of paper | [Slides](slides/data-methods-slides.html) |  |
+| Apr 11 | W | Computational results section of paper | [Slides](slides/results-slides.html) |  |
+| Apr 16 | M | Kernel density estimation |  | [PS1](ps1.md) |
 | Apr 18 | W | Interaction terms |  |  |
-| Apr 23 | M | Parallel computing |  | Literature review section |
+| Apr 23 | M | Parallel computing |  | [Literature review section](assignments/lit-review.md) |
 | Apr 25 | W | Workshop papers/office visits |  |  |
 | Apr 30 | M | Deep learning with Python/R |  | PS2 |
 | May  2 | W | Deep learning with Python/R |  |  |
@@ -77,6 +78,9 @@ If you need any special accommodations, please provide us with a copy of your Ac
 
 All readings are required unless otherwise noted. Adjustments can be made throughout the quarter. Be sure to check this repository frequently to make sure you know all the assigned readings.
 
+* Data/methods section
+    * [Broockman, D. E., & Skovron, C. (2018). Bias in Perceptions of Public Opinion among Political Elites. *American Political Science Review*, 1-22.](https://www.cambridge.org/core/journals/american-political-science-review/article/bias-in-perceptions-of-public-opinion-among-political-elites/2EF080E04D3AAE6AC1C894F52642E706/share/1bd83a8a05b6ac177c51e7a19aee1c55f3ef4b97)
+    * [Kalla, J. L., & Broockman, D. E. (2016). Campaign contributions facilitate access to congressional officials: A randomized field experiment. *American Journal of Political Science*, 60(3), 545-558.](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12180)
 * Interaction terms
     * [Brambor, T., Clark, W. R., & Golder, M. (2006). Understanding interaction models: Improving empirical analyses. *Political analysis*, 63-82.](http://www.jstor.org.proxy.uchicago.edu/stable/25791835)
 * Deep learning with Python/R
