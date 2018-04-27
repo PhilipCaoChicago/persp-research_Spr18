@@ -43,6 +43,19 @@ Students will turn assignments in via their own public GitHub repository named `
   * FinalPaper
 
 
+## Late Problem Sets
+
+Late problem sets will be penalized 2 points for every hour they are late. For example, if an assignment is due on Monday at 11:30am, the following points will be deducted based on the time stamp of the last commit.
+
+| Example PR last commit | points deducted |
+| ---------------------- | --------------- |
+| 11:31am to 12:30pm     | -2 points       |
+| 12:31pm to 1:30pm      | -4 points       |
+| 1:31pm to 2:30pm       | -6 points       |
+| 2:31pm to 3:30pm       | -8 points       |
+| 3:30pm and beyond      | -10 points (no credit) |
+
+
 ## Disability services
 
 If you need any special accommodations, please provide us with a copy of your Accommodation Determination Letter (provided to you by the Student Disability Services office) as soon as possible so that you may discuss with me how your accommodations may be implemented in this course.
@@ -58,11 +71,12 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Apr  4 | W | Proposal presentations |  | [Proposal slides & present](assignments/project-proposal.md) |
 | Apr  9 | M | Data/methods section of paper | [Slides](slides/data-methods-slides.html) |  |
 | Apr 11 | W | Computational results section of paper | [Slides](slides/results-slides.html) |  |
-| Apr 16 | M | Kernel density estimation |  | [PS1](ps1.md) |
+| Apr 16 | M | Kernel density estimation | [Notes_a](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/notebooks/KDE/KDE.ipynb) | [PS1](ps1.md) |
+|        |   |                           | [Notes_b](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/notebooks/KDE/05.13-Kernel-Density-Estimation.ipynb) |   |
 | Apr 18 | W | Interaction terms | [Notes](http://cfss.uchicago.edu/persp013_interaction_terms.html) |  |
-| Apr 23 | M | Parallel computing |  | [Literature review section](assignments/lit-review.md) |
+| Apr 23 | M | Parallel computing | [Notes](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/notebooks/Parallel/parallel.ipynb) | [Literature review section](assignments/lit-review.md) |
 | Apr 25 | W | Workshop papers/office visits |  |  |
-| Apr 30 | M | Deep learning with Python/R |  | PS2 |
+| Apr 30 | M | Deep learning with Python/R |  | [PS2](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/assignments/PS2/PS2.pdf) |
 | May  2 | W | Deep learning with Python/R |  |  |
 | May  7 | M | Deep learning with Python/R |  |  |
 | May  9 | W | Deep learning with Python/R |  | Methods/initial results section |
